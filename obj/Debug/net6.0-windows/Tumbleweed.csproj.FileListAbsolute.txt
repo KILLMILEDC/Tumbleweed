@@ -1,0 +1,88 @@
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.exe
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.deps.json
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.runtimeconfig.json
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.dll
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.pdb
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.csproj.AssemblyReference.cache
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\App.g.cs
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed_MarkupCompile.cache
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed_MarkupCompile.lref
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.g.resources
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.AssemblyInfoInputs.cache
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.AssemblyInfo.cs
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.csproj.CoreCompileInputs.cache
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.dll
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\refint\Tumbleweed.dll
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.pdb
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.genruntimeconfig.cache
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\ref\Tumbleweed.dll
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.Properties.Resources.resources
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.csproj.GenerateResource.cache
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\Resources\Images\LOGO.ico
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.dll.config
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\bin\Debug\net6.0-windows\WebDriver.dll
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Resources\Styles\ButtonStyle.baml
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Resources\Styles\ScrollBarStyle.baml
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Resources\Styles\SilderStyle.baml
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\AboutWindow.g.cs
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\CountdownSettingWindow.g.cs
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\LicenseWindow.g.cs
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\PromptWindow.g.cs
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed_Content.g.cs
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\App.baml
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\AboutWindow.baml
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\CountdownSettingWindow.baml
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\LicenseWindow.baml
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\PromptWindow.baml
+D:\Data\VsC#Programs\Tumbleweed\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.csproj.CopyComplete
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.exe
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\Resources\Images\LOGO.ico
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.dll.config
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.deps.json
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.runtimeconfig.json
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.dll
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\Tumbleweed.pdb
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\bin\Debug\net6.0-windows\WebDriver.dll
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.csproj.AssemblyReference.cache
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Resources\Styles\ButtonStyle.baml
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Resources\Styles\ScrollBarStyle.baml
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Resources\Styles\SilderStyle.baml
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\AboutWindow.g.cs
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\CountdownSettingWindow.g.cs
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\LicenseWindow.g.cs
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\PromptWindow.g.cs
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed_Content.g.cs
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed_MarkupCompile.cache
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed_MarkupCompile.lref
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\App.baml
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\AboutWindow.baml
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\CountdownSettingWindow.baml
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\LicenseWindow.baml
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\PromptWindow.baml
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.g.resources
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.Properties.Resources.resources
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.csproj.GenerateResource.cache
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.AssemblyInfoInputs.cache
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.AssemblyInfo.cs
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.csproj.CoreCompileInputs.cache
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.csproj.CopyComplete
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.dll
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\refint\Tumbleweed.dll
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.pdb
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\Tumbleweed.genruntimeconfig.cache
+C:\Users\killm\Desktop\KILLMILEDC文档\项目集合\Tumbleweed\TU (2023.02.23)\Tumbleweed\obj\Debug\net6.0-windows\ref\Tumbleweed.dll

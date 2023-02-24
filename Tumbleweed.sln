@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tumbleweed", "Tumbleweed.csproj", "{103D0380-7D49-451D-9AE7-019BBBC24E4B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TumbleweedSetup", "..\TumbleweedSetup\TumbleweedSetup.vdproj", "{A978F68B-161C-4135-8A21-7FE6A3E89BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103D0380-7D49-451D-9AE7-019BBBC24E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103D0380-7D49-451D-9AE7-019BBBC24E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103D0380-7D49-451D-9AE7-019BBBC24E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103D0380-7D49-451D-9AE7-019BBBC24E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A978F68B-161C-4135-8A21-7FE6A3E89BE7}.Debug|Any CPU.ActiveCfg = Debug
+		{A978F68B-161C-4135-8A21-7FE6A3E89BE7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94E41432-3E41-494E-B6CD-D78302E6885C}
+	EndGlobalSection
+EndGlobal

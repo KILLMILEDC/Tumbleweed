@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/XBOwP3oEgPc+FWpnOP9GN5gqdJ3AbAsM3QPWKM8stKFQkiTiCkvFSRDAL3XI2Mo1Sh+5qoPF2exmIDAmMmHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\killm\\Desktop\\KILLMILEDC文档\\项目集合\\Tumbleweed\\TU (2023.02.23)\\Tumbleweed\\Tumbleweed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\killm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\killm\\.nuget\\packages\\selenium.webdriver\\4.8.0\\selenium.webdriver.4.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

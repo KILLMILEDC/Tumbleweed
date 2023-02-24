@@ -1,0 +1,17 @@
+﻿<Window x:Class="Tumbleweed.CountdownSettingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tumbleweed"
+        mc:Ignorable="d"
+        Title="CountdownSettingWindow" Height="50" Width="130"
+        Left="0"
+        Background="#B21E785E" Opacity="1" WindowStyle="None" AllowsTransparency="True"
+        FontFamily="{StaticResource RCL}" FontSize="30" ShowInTaskbar="False"
+        >
+    <Canvas Margin="4">
+        <TextBlock x:Name="CountdownSliderNumber" Margin="2, 0, 0, 0" FontSize="14" Foreground="#FF283B42" FontWeight="Bold"/>
+        <Slider x:Name="CountdownSlider" Style="{StaticResource SliderStyle}" Width="117" Margin="2, 16, 0, 0" Minimum="0" Maximum="80" TickPlacement="BottomRight" TickFrequency="10" IsSnapToTickEnabled="True" ValueChanged="CountdownSlider_ValueChanged"/>
+    </Canvas>
+</Window>
